@@ -4,8 +4,6 @@
  </a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/931833357854199849)](https://discord.com/users/931833357854199849)
-
 ---
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,gcp,bootstrap,discord,figma,firebase,git,nextjs,tailwind,vite,wordpress,&theme=dark"/>
