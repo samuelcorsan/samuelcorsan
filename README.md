@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**disamtech/disamtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
+<p align="center">
+<a href="https://discord.com/users/931833357854199849">
+<img src="https://lanyard-profile-readme.vercel.app/api/931833357854199849?theme=dark&bg=292b2f&animated=true&hideDiscrim=true&borderRadius=27px&idleMessage=La%programación%20es%20mi%20vida%20🙌">
+ </a>
 
-Here are some ideas to get you started:
+---
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,gcp,bootstrap,discord,figma,firebase,git,nextjs,tailwind,vite,wordpress,&theme=dark"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
