@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://discord.gg/inversores">
- <img src="https://lanyard.cnrad.dev/api/931833357854199849)"></img>
+ <img src="https://lanyard.cnrad.dev/api/931833357854199849"></img>
  </a>
 </p>
 
