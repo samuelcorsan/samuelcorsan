@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://discord.gg/inversores">
-[![Discord Presence](https://lanyard.cnrad.dev/api/931833357854199849)](https://discord.com/users/931833357854199849)
+ <img src="https://lanyard.cnrad.dev/api/931833357854199849)"></img>
  </a>
 </p>
 
