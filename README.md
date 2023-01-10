@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,gcp,bootstrap,discord,figma,firebase,git,nextjs,tailwind,vite,wordpress,&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,bootstrap,discord,firebase,git,tailwind,vite,wordpress,&theme=dark"/>
 </p>
 
 ---
