@@ -4,9 +4,6 @@
  </a>
 </p>
 
----
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,firebase,bootstrap,discord,git,tailwind,wordpress,&theme=dark"/>
 </p>
-
----
