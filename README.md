@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://discord.gg/inversores">
+<a href="https://disam.dev">
  <img src="https://lanyard.cnrad.dev/api/931833357854199849"></img>
  </a>
 </p>
