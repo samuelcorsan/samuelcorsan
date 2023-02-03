@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://fv9-6.failiem.lv/down.php?i=gmmnk6fnh&view" />
+   <img align="center" width="200" src="https://raw.githubusercontent.com/disamtech/disamtech/main/TCG_7.png" />
    <h3 align="center">Hi, I'm Disam.</h3>
 </p>
 
