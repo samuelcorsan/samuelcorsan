@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" width="300">
-   <img align="center" width="200" src="https://raw.githubusercontent.com/disamtech/disamtech/main/main.jpg" />
    <h3 align="center">Hi, I'm Disam.</h3>
+   <p align="center">I'm a almost <strong>Full Stack developer<strong>.</p>
 </p>
 
