@@ -4,7 +4,7 @@
 
 <p align="center" width="300">
    <h3 align="center">Hi, I'm Disam.</h3>
-   <p align="center">I'm a almost <strong>Full Stack developer<strong>.</p>
+   <p align="center">I'm a <strong>Full Stack developer<strong>.</p>
 </p>
 
 
