@@ -1,7 +1,7 @@
 # DisamDev
 
 <p>
-   <p>Full Stack web developer with +4 years of experience trying to create innovative projects every day.</p>
+   <p>Web Developer with +3 years of experience & AI Expert with +1 year of experience.</p>
 </p>
       
 # My skills
