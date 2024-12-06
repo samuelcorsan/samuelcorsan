@@ -9,7 +9,7 @@ I'm Samuel Corsan, a 14-year-old full-stack developer with 4 years of programmin
 
 ## Skills
 <p align="center">
-[<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,bootstrap,nodejs,express,python,supabase,postgres,git,github,markdown,bash,powershell,electron,cloudflare,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,astro,tailwind,bootstrap,nodejs,express,python,supabase,postgres,git,github,markdown,bash,powershell,electron,cloudflare,vercel&theme=dark" />
 </p>
  
 ## Github Stats ⚡
