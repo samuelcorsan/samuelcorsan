@@ -1,10 +1,6 @@
 # Samuel Corsan
 
-I'm Samuel Corsan, a 14-year-old full-stack developer with 4 years of programming experience. I work as a freelancer on various projects and document my journey on my Spanish YouTube channel, where I share tutorials and tips to help others learn AI & web development.
-
-![status](https://api.statusbadges.me/badge/status/1310272596192788523?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/1310272596192788523)
-[![spotify](https://api.statusbadges.me/badge/spotify/1310272596192788523)](https://api.statusbadges.me/openspotify/1310272596192788523)
+I'm Samuel Corsan, a full-stack developer with 4 years of programming experience. I work as a freelancer on various projects.
 <br></br>
 
 ## Skills
