@@ -2,7 +2,8 @@
 
 I'm **Samuel Corsan**, a full-stack developer with 4 years of programming experience. I work as a freelancer on various projects.
 
-🌱 **Maintainer** @ PublicSpending.World
+🌱 **Founder** @ vcrft.com
+🌱 **Founder** @ PublicSpending.World
 <br></br>
 
 ## Skills
