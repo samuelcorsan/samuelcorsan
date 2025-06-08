@@ -13,7 +13,7 @@ I'm **Samuel Corsan**, a full-stack developer with 4 years of programming experi
 
 ## 🌐 Contact
 
-Want to build/chat? Shoot me an email! <a href="mailto:samuelcorsanyt@gmail.com">`samuelcorsanyt@gmail.com`</a>
+Want to build/chat? Shoot me an email! <a href="mailto:samuelcorsanyt@gmail.com">`samuel@disam.dev`</a>
  
 ## Github Stats ⚡
 [![GitHub Streak](https://streak-stats.demolab.com?user=samuelcorsan&theme=dark&hide_border=true)](https://git.io/streak-stats)
