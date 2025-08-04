@@ -2,8 +2,7 @@
 
 I'm **Samuel Corsan**, a full-stack developer with 4 years of programming experience. I work as a freelancer on various projects.
 
-🌱 **Founder** @ vcrft.com<br></br>
-🌱 **Maintainer** @ ddfellows
+🌱 **Maintainer** @ fellows.best
 <br></br>
 
 ## Skills
