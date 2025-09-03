@@ -3,7 +3,9 @@
 I'm **Samuel Corsan**, a full-stack developer coding since I was 9. I work as a freelancer on various projects.
 
 🌱 **Maintainer** @ fellows.best<br />
-🌱 **Maintainer** @ publicspending.world
+🌱 **Maintainer** @ publicspending.world<br /><br />
+![](https://komarev.com/ghpvc/?username=samuelcorsan&color=2062af&label=Profile+views)
+
 <br></br>
 
 ## Skills
@@ -16,7 +18,7 @@ I'm **Samuel Corsan**, a full-stack developer coding since I was 9. I work as a 
 Want to build/chat? Shoot me an email! <a href="mailto:samuelcorsanyt@gmail.com">`samuel@disam.dev`</a>
  
 ## Github Stats ⚡
-[![GitHub Streak](https://streak-stats.demolab.com?user=samuelcorsan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samuelcorsan&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
 <a href="#">![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelcorsan&layout=compact&theme=transparent&count_private=true&hide_border=true)</a>
 
 
