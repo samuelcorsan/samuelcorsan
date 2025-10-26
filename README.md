@@ -3,7 +3,6 @@
 I'm **Samuel Corsan**, a full-stack developer coding since I was 9. I work as a freelancer on various projects.
 
 🌱 **Maintainer** @ fellows.best<br />
-🌱 **Maintainer** @ publicspending.world<br /><br />
 ![](https://komarev.com/ghpvc/?username=samuelcorsan&color=2062af&label=Profile+views)
 
 
