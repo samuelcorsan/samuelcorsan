@@ -13,7 +13,7 @@ I'm **Samuel Corsan**, a full-stack developer coding since I was 9. I work as a 
 
 ## 🌐 Contact
 
-Want to build/chat? Shoot me an email! <a href="mailto:samuelcorsanyt@gmail.com">`samuel@disam.dev`</a>
+Want to build/chat? Shoot me an email! <a href="mailto:samuelcorsanyt@gmail.com">`samuelcorsanyt@gmail.com`</a>
  
 ## Github Stats ⚡
 <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=samuelcorsan&theme=transparent&count_private=true&hide_border=true&line_height=20)</a>
