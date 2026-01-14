@@ -1,6 +1,6 @@
 # About Me:
 
-👋 Hi, I’m Samuel Corsan, a 15-year-old developer and lifelong learner from Spain. I’ve been passionate about coding since I was 9, and over the years I’ve explored everything from game development to building full-stack web apps.
+👋 Hi, I’m Samuel Corsan, a 15-year-old developer from Spain. I’ve been passionate about coding since I was 9, and over the years I’ve explored everything from game development to building full-stack web apps.
 <br></br>
 ![](https://komarev.com/ghpvc/?username=samuelcorsan&color=2062af&label=Profile+views)
 
